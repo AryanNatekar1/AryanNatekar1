@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Aryan Natekar 👋
 
-<!--
-**AryanNatekar1/AryanNatekar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student researcher exploring:
 
-Here are some ideas to get you started:
+- UAV autonomy
+- Sensor fusion
+- Embedded systems
+- AI for robotics
+- Regional language AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+### MAGNAV
+Geomagnetic anomaly matching and sensor fusion for resilient UAV navigation in GPS-denied environments.
+
+### Flying Wing UAV
+DIY autonomous aircraft experiments with embedded systems and sensors.
+
+### Malvani Learning AI
+Exploring regional-language AI systems for improving learning accessibility.
+
+## Building Philosophy
+
+I document:
+
+- experiments
+- failures
+- improvements
+- technical learning
+
+## Currently Learning
+
+- Python
+- Robotics
+- Machine Learning
+- Embedded Systems
